@@ -46,4 +46,4 @@
         echo "<p>This is a message from the server-side PHP script.</p>";
     ?>
 </body>
-</html>
+</html> 
